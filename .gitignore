@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset (VERY IMPORTANT - don't upload large data)
+data/
+dataset/
+*.zip
+
+# Model files (optional - if large)
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+
+# TensorFlow / PyTorch cache
+.cache/
+runs/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
