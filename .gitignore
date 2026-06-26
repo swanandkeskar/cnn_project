@@ -42,3 +42,7 @@ runs/
 
 # Environment variables
 .env
+
+venv/
+__pycache__/
+static/uploads/*
